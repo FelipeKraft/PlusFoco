@@ -9,7 +9,7 @@ sem precisar do Link do GitHub.
 
 Para baixar é simples, clique em <> Code e depois em download zip,
 assim, o arquivo será instalado de forma zipada, sendo preciso extrair.
-Nota-se que é necessário o Python atualizado instalado em sua máquina
-para funcioanr.
+Nota-se que é necessário o Python atualizado e instalado em sua máquina
+para funcionar corretamente.
 
 É isso, obrigado e espero que lhe seja útil.
